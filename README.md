@@ -1,6 +1,6 @@
 # Large-Language-Model-with-FLAN-T5
 
-This repository contains notebook files that discuss Large Language Models (LLMs), covering topics like fine-tuning, prompt tuning, and techniques such as PEFT (Prompt Engineering for Tasks) and PPO (Proximal Policy Optimization) etc.
+This repository contains notebook files that discuss Large Language Models (LLMs), covering topics like fine-tuning, prompt tuning, and techniques such as PEFT (Parameter Efficient Fine-Tuning) and PPO (Proximal Policy Optimization) etc.
 
 ### 1. Summarize_dialogue_LLM.ipynb:
 
