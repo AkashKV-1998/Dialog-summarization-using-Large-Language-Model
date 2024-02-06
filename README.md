@@ -18,4 +18,10 @@ Utilize FLAN-T5, a high-quality instruction-tuned model, to summarize text effec
 Understand how to fine-tune a FLAN-T5 model to generate less toxic content using Meta AI's hate speech reward model.
 Experiment with Proximal Policy Optimization (PPO) to reduce the model's toxicity and create safer summaries.
 
+# Reference
+
+1. Generative AI with Large Language Models - By Deeplearning.ai and AWS (Coursera Course)
+
+##### This repository contains materials related to the Coursera course 'Generative AI with Large Language Models' by Deeplearning.ai and AWS. These materials were used for studying and experimenting with Large Language Models (LLMs). For in-depth insights, it is recommended to enroll in the course.
+
 
